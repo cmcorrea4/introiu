@@ -4,5 +4,7 @@ from PIL import Image
 st.title(" Mi Primera App!!")
 
 st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
-st.write("Facilmente puedo realizar backend y frontend.")
+
 image = Image.open('imagenci.jpg')
+st.write("Enlace para mi sistema de internet de las cosas")
+st.write("check out this [link](https://demo.thingsboard.io/dashboards/9a61e170-565c-11ee-b6bf-f9525dc44ab3)")
