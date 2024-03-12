@@ -1,9 +1,9 @@
 import streamlit as st
 from PIL import Image
 
-st.title(" Mi Primera App!!")
+st.title(" Aplicaciones para Ciudades Inteligentes")
 
-st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
+st.header("En este espacio podrás obtener información de tu ciudad.")
 
 image = Image.open('imagenci.jpg')
 st.write("Enlace para mi sistema de internet de las cosas")
